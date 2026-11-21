@@ -1,0 +1,28 @@
+
+# Core LangChain and LCEL
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langgraph
+
+# ReAct agent
+# LangGraph provides prebuilt ReAct-style agents
+
+# Tavily search tool
+langchain-tavily
+tavily-python
+
+# Web scraping
+beautifulsoup4
+lxml
+requests
+httpx
+
+# Environment variables and data validation
+python-dotenv
+pydantic
+
+# Retry and typing utilities
+tenacity
+typing-extensions
